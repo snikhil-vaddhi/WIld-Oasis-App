@@ -1,2 +1,2 @@
 #The Wild Oasis
-live-link - https://vercel.com/sai-nikhil-vaddhis-projects/wild-oasis-app
+live-link - https://wild-oasis-app-ruby.vercel.app/login
